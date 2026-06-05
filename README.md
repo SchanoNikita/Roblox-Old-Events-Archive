@@ -5,4 +5,4 @@ Many unmodified versions of maps DO NOT WORK, but they are historically pure and
 
 AND ALSO IMPORTANT: "Maps are taken from open sources/personal archives; the scripts inside have not been checked for backdoors. Use in Roblox Studio at your own risk."
 
-I DON'T KNOW WHAT'S WRONG WITH THE EGG HUNT 2013 IT'S BROKEN DO NOT USE IT IN ANY FORM
+EGG HUNT 2013 IT'S BROKEN
