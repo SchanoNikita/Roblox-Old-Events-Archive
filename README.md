@@ -4,3 +4,5 @@ This is an old Roblox archive with old events. Rare, I'd even say rare, events a
 Many unmodified versions of maps DO NOT WORK EVEN ON OLD CLIENTS, but they are historically pure and taken directly from the Roblox servers, because of this, I strongly urge you to use the modified versions.
 
 AND ALSO IMPORTANT: "Maps are taken from open sources/personal archives; the scripts inside have not been checked for backdoors. Use in Roblox Studio at your own risk."
+
+Almost all events were obtained using exploits, because of this, server scripts are not saved, and almost all old events were used to operate the Roblox servers, and without them, the game does not work correctly. That is, the events are pure original, but obtaining them and time destroys them, and there is nothing to be done about it.
